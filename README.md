@@ -9,10 +9,11 @@
 
 # Communicate using Markdown
 
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
-
+# Introduction to markdown
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
